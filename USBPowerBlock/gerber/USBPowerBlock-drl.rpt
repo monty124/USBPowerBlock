@@ -1,0 +1,26 @@
+Drill report for USBPowerBlock.kicad_pcb
+Created on 2025-03-16T17:18:52+1100
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'USBPowerBlock-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.900mm  0.0354"  (20 holes)
+    T2  1.000mm  0.0394"  (4 holes)
+    T3  1.200mm  0.0472"  (2 holes)
+    T4  1.300mm  0.0512"  (10 holes)  (with 10 slots)
+
+    Total plated holes count 36
+
+
+Drill file 'USBPowerBlock-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 4

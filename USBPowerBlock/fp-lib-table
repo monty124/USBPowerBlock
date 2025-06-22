@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Symbols")(type "KiCad")(uri "${PROJECT_PATH}/Symbols")(options "")(descr ""))
+)
